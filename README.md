@@ -23,3 +23,6 @@ git clone https://github.com/Ellis-Nz/AetherNG.git
 cd AetherNG
 npm install
 npm run dev
+
+### 🌐 Live Demo
+https://aether-ng-nu.vercel.app/
